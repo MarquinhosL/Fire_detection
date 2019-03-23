@@ -2,4 +2,5 @@
 
 labelimg用于标注指定图片类别,进入相关目录执行指令如下
 >>pyrcc5 -o resources.py resources.qrc 
+
 >>python labelImg.py
